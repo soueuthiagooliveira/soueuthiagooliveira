@@ -11,6 +11,6 @@ Python para automatizações
 
 E estou em constante aprendizado conforme você notará nos meus repositórios do Github.
 
-Boa parte do meu conhecimento eu adquiri no curso www.eucodo.com.br
+Boa parte do meu conhecimento eu adquiri no curso www.eucodo.com.br com o professor Charles
 
 
